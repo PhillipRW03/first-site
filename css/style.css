@@ -1,0 +1,44 @@
+body{
+    background-color: #b3c7f7;
+    color:black;
+}
+
+h1{
+    font-size: 36px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+h2{
+    font-size: 24px;
+    font-family:'Courier New', Courier, monospace;
+    color: black;
+    margin: 20px;
+}
+
+h3{
+    font-size: 18px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: black;
+    margin:20px;
+}
+
+p{
+    line-height: 2pc;
+    margin-left: 20px;
+}
+
+img{
+    border: 5px solid white;
+    padding: 1px;
+    margin: 20px;
+    border-top-right-radius: 30px;
+}
+
+li {
+    display: inline-block;
+    margin-left: 50px;
+}
+figcaption{
+    margin: 20px;
+}
