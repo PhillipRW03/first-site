@@ -35,10 +35,36 @@ img{
     border-top-right-radius: 30px;
 }
 
-li {
-    display: inline-block;
-    margin-left: 50px;
-}
 figcaption{
     margin: 20px;
+}
+
+
+ul{
+    display: flex;
+    justify-content: space-between;
+}
+
+nav{
+    border: 2px solid black;
+    padding: 10px;
+}
+
+nav a{
+    background-color: black;
+    color: white;
+    padding: 5px;
+    margin: 20px;
+    border: 2px solid white;
+}
+
+#skip{
+    text-transform:uppercase;
+    margin: 20px;
+}
+.thumbnail{
+    display: block;
+    border:5px solid white;
+    margin: auto;
+    width: 450px;
 }
